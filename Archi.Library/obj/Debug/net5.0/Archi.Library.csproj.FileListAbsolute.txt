@@ -1,0 +1,24 @@
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.deps.json
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.dll
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\bin\Debug\net5.0\ref\Archi.Library.dll
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.pdb
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.csproj.AssemblyReference.cache
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.AssemblyInfoInputs.cache
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.AssemblyInfo.cs
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.dll
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\ref\Archi.Library.dll
+C:\Users\eleon\Documents\archilog\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.pdb
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.deps.json
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.dll
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\bin\Debug\net5.0\ref\Archi.Library.dll
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\bin\Debug\net5.0\Archi.Library.pdb
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.csproj.AssemblyReference.cache
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.AssemblyInfoInputs.cache
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.AssemblyInfo.cs
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.csproj.CoreCompileInputs.cache
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.dll
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\ref\Archi.Library.dll
+C:\Users\eleon\Documents\archilog1 - Copie\src\ArchiLog\Archi.Library\obj\Debug\net5.0\Archi.Library.pdb
